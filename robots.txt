@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dyzwww-d63-77.github.io/my-notes/sitemap.xml
